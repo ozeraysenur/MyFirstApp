@@ -65,6 +65,6 @@
         android:text="LOGIN"
         android:textAlignment="center"
         android:textColor="#4E342E"
-        app:backgroundTint="#00BFA5" />
+        app:backgroundTint="#6800BFA5" />
 
 </LinearLayout>
